@@ -9,7 +9,6 @@ WebdriverIO is a progressive automation framework built to automate modern web a
 - [Usage](#usage)
 - [References](#references)
 
-
 ## Installation
 
 ### Pre requisite
