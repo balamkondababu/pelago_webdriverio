@@ -1,0 +1,176 @@
+{
+  "uid" : "1a2e3ce130cc1e24",
+  "name" : "When user search for an activity \"universal studios singapore\"",
+  "fullName" : "login into pelago website: As a user, I am able to book activity in pelago website.When user search for an activity \"universal studios singapore\"",
+  "historyId" : "c48bdedb20bb059f9d08229c090a6078",
+  "time" : {
+    "start" : 1665387132406,
+    "stop" : 1665387132752,
+    "duration" : 346
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element not interactable: element not interactable",
+  "statusTrace" : "element not interactable: element not interactable\n                  (Session info: chrome=106.0.5249.103)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "element not interactable: element not interactable",
+    "statusTrace" : "element not interactable: element not interactable\n                  (Session info: chrome=106.0.5249.103)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1665387132408,
+        "stop" : 1665387132426,
+        "duration" : 18
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5eaa9a6702bd3e4b",
+        "name" : "Request",
+        "source" : "5eaa9a6702bd3e4b.json",
+        "type" : "application/json",
+        "size" : 113
+      }, {
+        "uid" : "65ba0ab8b83d763b",
+        "name" : "Response",
+        "source" : "65ba0ab8b83d763b.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/d6469171-1bd5-48cf-956f-225e9419b6a7/clear",
+      "time" : {
+        "start" : 1665387132430,
+        "stop" : 1665387132460,
+        "duration" : 30
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/d6469171-1bd5-48cf-956f-225e9419b6a7/value",
+      "time" : {
+        "start" : 1665387132465,
+        "stop" : 1665387132676,
+        "duration" : 211
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "63fdc5136c80c950",
+        "name" : "Request",
+        "source" : "63fdc5136c80c950.json",
+        "type" : "application/json",
+        "size" : 43
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1665387132677,
+        "stop" : 1665387132693,
+        "duration" : 16
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "471a94e8ebd0bfe4",
+        "name" : "Request",
+        "source" : "471a94e8ebd0bfe4.json",
+        "type" : "application/json",
+        "size" : 128
+      }, {
+        "uid" : "860a608fb5bb4c8b",
+        "name" : "Response",
+        "source" : "860a608fb5bb4c8b.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/c89eb59e-8e4b-47fb-9f7b-e2d40ef91bb1/click",
+      "time" : {
+        "start" : 1665387132696,
+        "stop" : 1665387132751,
+        "duration" : 55
+      },
+      "status" : "broken",
+      "statusMessage" : "element not interactable: element not interactable\n                  (Session info: chrome=106.0.5249.103)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "login into pelago website: As a user, I am able to book activity in pelago website"
+  }, {
+    "name" : "testClass",
+    "value" : "login into pelago website: As a user, I am able to book activity in pelago website"
+  }, {
+    "name" : "testMethod",
+    "value" : "When user search for an activity \"universal studios singapore\""
+  }, {
+    "name" : "package",
+    "value" : "login into pelago website: As a user, I am able to book activity in pelago website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-106.0.5249.103"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1a2e3ce130cc1e24.json",
+  "parameterValues" : [ "chrome-106.0.5249.103" ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "f74d7aca2d9f58e8",
+  "name" : "Given user is on the pelago home page",
+  "fullName" : "login into pelago website: As a user, I am able to book activity in pelago website.Given user is on the pelago home page",
+  "historyId" : "92bbbeec8e68cf0cc45420a2b0f7b62c",
+  "time" : {
+    "start" : 1665386224104,
+    "stop" : 1665386224127,
+    "duration" : 23
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "login into pelago website: As a user, I am able to book activity in pelago website"
+  }, {
+    "name" : "testClass",
+    "value" : "login into pelago website: As a user, I am able to book activity in pelago website"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given user is on the pelago home page"
+  }, {
+    "name" : "package",
+    "value" : "login into pelago website: As a user, I am able to book activity in pelago website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-106.0.5249.103"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "20d50f02604f7fa8",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386107666,
+        "stop" : 1665386107675,
+        "duration" : 9
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f74d7aca2d9f58e8.json",
+  "parameterValues" : [ "chrome-106.0.5249.103" ]
+}

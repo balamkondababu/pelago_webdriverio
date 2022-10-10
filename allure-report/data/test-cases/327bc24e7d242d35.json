@@ -1,0 +1,258 @@
+{
+  "uid" : "327bc24e7d242d35",
+  "name" : "Then view options and check availability for an activity",
+  "fullName" : "login into pelago website: As a user, I am able to book activity in pelago website.Then view options and check availability for an activity",
+  "historyId" : "7eb4c9da8403f4bf26104dab485ff0ff",
+  "time" : {
+    "start" : 1665388506257,
+    "stop" : 1665388507488,
+    "duration" : 1231
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1665388506258,
+        "stop" : 1665388506295,
+        "duration" : 37
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8b413cc67adb840b",
+        "name" : "Request",
+        "source" : "8b413cc67adb840b.json",
+        "type" : "application/json",
+        "size" : 79
+      }, {
+        "uid" : "8e18e7c8e113898d",
+        "name" : "Response",
+        "source" : "8e18e7c8e113898d.json",
+        "type" : "application/json",
+        "size" : 1962
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1665388506296,
+        "stop" : 1665388506312,
+        "duration" : 16
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "94ead708029a0a95",
+        "name" : "Request",
+        "source" : "94ead708029a0a95.json",
+        "type" : "application/json",
+        "size" : 79
+      }, {
+        "uid" : "c000264ffd799ea7",
+        "name" : "Response",
+        "source" : "c000264ffd799ea7.json",
+        "type" : "application/json",
+        "size" : 2
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1665388506797,
+        "stop" : 1665388506809,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e0f48d305a2eb777",
+        "name" : "Request",
+        "source" : "e0f48d305a2eb777.json",
+        "type" : "application/json",
+        "size" : 79
+      }, {
+        "uid" : "73d02fe0ae6b2472",
+        "name" : "Response",
+        "source" : "73d02fe0ae6b2472.json",
+        "type" : "application/json",
+        "size" : 2
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1665388507298,
+        "stop" : 1665388507318,
+        "duration" : 20
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "1ad7729111106be9",
+        "name" : "Request",
+        "source" : "1ad7729111106be9.json",
+        "type" : "application/json",
+        "size" : 79
+      }, {
+        "uid" : "86c6ee82f72def85",
+        "name" : "Response",
+        "source" : "86c6ee82f72def85.json",
+        "type" : "application/json",
+        "size" : 93
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1665388507320,
+        "stop" : 1665388507331,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f160d6f01aa8001c",
+        "name" : "Request",
+        "source" : "f160d6f01aa8001c.json",
+        "type" : "application/json",
+        "size" : 79
+      }, {
+        "uid" : "8d15a909c740125c",
+        "name" : "Response",
+        "source" : "8d15a909c740125c.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/004d16c5-db1d-4895-83e4-b1deccce4980/click",
+      "time" : {
+        "start" : 1665388507334,
+        "stop" : 1665388507399,
+        "duration" : 65
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1665388507399,
+        "stop" : 1665388507412,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "500be8832aaf65a0",
+        "name" : "Request",
+        "source" : "500be8832aaf65a0.json",
+        "type" : "application/json",
+        "size" : 86
+      }, {
+        "uid" : "bb90950046f8779",
+        "name" : "Response",
+        "source" : "bb90950046f8779.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/4983dd64-aa59-489d-829b-9bcc98988ce7/click",
+      "time" : {
+        "start" : 1665388507415,
+        "stop" : 1665388507487,
+        "duration" : 72
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 8,
+    "attachmentsCount" : 12,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "login into pelago website: As a user, I am able to book activity in pelago website"
+  }, {
+    "name" : "testClass",
+    "value" : "login into pelago website: As a user, I am able to book activity in pelago website"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then view options and check availability for an activity"
+  }, {
+    "name" : "package",
+    "value" : "login into pelago website: As a user, I am able to book activity in pelago website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-106.0.5249.103"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "327bc24e7d242d35.json",
+  "parameterValues" : [ "chrome-106.0.5249.103" ]
+}

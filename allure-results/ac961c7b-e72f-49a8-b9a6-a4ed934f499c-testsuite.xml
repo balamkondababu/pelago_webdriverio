@@ -1,0 +1,206 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1665394564036' stop='1665394567997'>
+    <name>pelago UI tests: As a user, I am able to book an activity in pelago website</name>
+    <title>pelago UI tests: As a user, I am able to book an activity in pelago website</title>
+    <test-cases>
+        <test-case start='1665394564036' status='passed' stop='1665394564036'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-106.0.5249.103'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1665394564037' status='passed' stop='1665394566479'>
+            <name>Given user is on the pelago home page "https://www.pelago.co/en-IN/"</name>
+            <title>Given user is on the pelago home page "https://www.pelago.co/en-IN/"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-106.0.5249.103'/>
+            </parameters>
+            <steps>
+                <step start='1665394564037' status='passed' stop='1665394565472'>
+                    <name>POST /session/:sessionId/url</name>
+                    <title>POST /session/:sessionId/url</title>
+                    <attachments>
+                        <attachment title='Request' source='bb2249b7-db6a-478a-a209-d68a655cb2e9-attachment.json' type='application/json' size='43'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1665394566479' status='passed' stop='1665394567994'>
+            <name>When user search for an activity "universal studios singapore"</name>
+            <title>When user search for an activity "universal studios singapore"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-106.0.5249.103'/>
+            </parameters>
+            <steps>
+                <step start='1665394566480' status='passed' stop='1665394566503'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='c1a3145e-f348-48ff-8632-3bf09969c4b0-attachment.json' type='application/json' size='113'/>
+                        <attachment title='Response' source='e40338ec-6373-4c6c-8284-f68f0cb5fbc4-attachment.json' type='application/json' size='83'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1665394566505' status='passed' stop='1665394566601'>
+                    <name>POST /session/:sessionId/element/c6c15b5a-1021-4520-96fe-9d5063698326/clear</name>
+                    <title>POST /session/:sessionId/element/c6c15b5a-1021-4520-96fe-9d5063698326/clear</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1665394566602' status='passed' stop='1665394566743'>
+                    <name>POST /session/:sessionId/element/c6c15b5a-1021-4520-96fe-9d5063698326/value</name>
+                    <title>POST /session/:sessionId/element/c6c15b5a-1021-4520-96fe-9d5063698326/value</title>
+                    <attachments>
+                        <attachment title='Request' source='53446cfd-8310-4e93-9a9d-9f9e30934b98-attachment.json' type='application/json' size='43'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1665394566744' status='passed' stop='1665394566759'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='5ee9af88-25b0-4782-931a-055278a4e572-attachment.json' type='application/json' size='74'/>
+                        <attachment title='Response' source='15658779-6fe5-40b1-8dd1-99d188618228-attachment.json' type='application/json' size='83'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1665394566761' status='passed' stop='1665394566843'>
+                    <name>POST /session/:sessionId/element/bb564f4e-e03d-45ca-b5fb-269e73f866fe/click</name>
+                    <title>POST /session/:sessionId/element/bb564f4e-e03d-45ca-b5fb-269e73f866fe/click</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1665394566843' status='passed' stop='1665394566873'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='593aae01-3b69-44e2-a149-f9d9dc635d6e-attachment.json' type='application/json' size='92'/>
+                        <attachment title='Response' source='a2982ce4-aafc-439c-b607-86f35795af2f-attachment.json' type='application/json' size='1975'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1665394566875' status='passed' stop='1665394566958'>
+                    <name>POST /session/:sessionId/elements</name>
+                    <title>POST /session/:sessionId/elements</title>
+                    <attachments>
+                        <attachment title='Request' source='64929d0e-8998-4dfe-8439-608561b45037-attachment.json' type='application/json' size='92'/>
+                        <attachment title='Response' source='23f3c380-86d0-4829-b0f3-1dfe27a78bab-attachment.json' type='application/json' size='2'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1665394567375' status='passed' stop='1665394567388'>
+                    <name>POST /session/:sessionId/elements</name>
+                    <title>POST /session/:sessionId/elements</title>
+                    <attachments>
+                        <attachment title='Request' source='2eaa6d0b-413e-4425-a309-b8eb16630f84-attachment.json' type='application/json' size='92'/>
+                        <attachment title='Response' source='b22d03d8-28a2-475f-99be-ca15fc0182ea-attachment.json' type='application/json' size='2'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1665394567875' status='passed' stop='1665394567892'>
+                    <name>POST /session/:sessionId/elements</name>
+                    <title>POST /session/:sessionId/elements</title>
+                    <attachments>
+                        <attachment title='Request' source='3cd569ed-fa5d-4ac9-be54-bee9e3261c34-attachment.json' type='application/json' size='92'/>
+                        <attachment title='Response' source='6c97869a-89e9-473b-adcf-c843d19aaab3-attachment.json' type='application/json' size='1094'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1665394567906' status='passed' stop='1665394567932'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='58d32db2-bc3c-49fd-9cb8-7f9169b7db0c-attachment.json' type='application/json' size='92'/>
+                        <attachment title='Response' source='ce925d5c-75ad-442b-9f65-6c90b9e1f117-attachment.json' type='application/json' size='83'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1665394567933' status='passed' stop='1665394567994'>
+                    <name>POST /session/:sessionId/element/10d1b488-4df1-448c-b579-37be749a885f/click</name>
+                    <title>POST /session/:sessionId/element/10d1b488-4df1-448c-b579-37be749a885f/click</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1665394567994' status='broken' stop='1665394567995'>
+            <name>Then select date "November 3rd, 2022"</name>
+            <title>Then select date "November 3rd, 2022"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-106.0.5249.103'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Step "select date "November 3rd, 2022"" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.</message>
+                <stack-trace>Step "select date "November 3rd, 2022"" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.
+                	at Feature(/Users/kondababubalam/Documents/pelago_webdriverio/features/product.feature):1:1
+                	at Scenario(As a user, I am able to book an activity in pelago website):16:3
+                	at Step(select date "November 3rd, 2022"):20:5
+                </stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1665394567995' status='broken' stop='1665394567996'>
+            <name>Then checkout the order'</name>
+            <title>Then checkout the order'</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-106.0.5249.103'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Step "checkout the order'" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.</message>
+                <stack-trace>Step "checkout the order'" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.
+                	at Feature(/Users/kondababubalam/Documents/pelago_webdriverio/features/product.feature):1:1
+                	at Scenario(As a user, I am able to book an activity in pelago website):16:3
+                	at Step(checkout the order'):21:5
+                </stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1665394567996' status='passed' stop='1665394567996'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-106.0.5249.103'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

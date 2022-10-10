@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Error: Malformed type for \"args\" parameter of command executeScript",
+      "children" : [ {
+        "name" : "Then select the next available date",
+        "uid" : "27d4bdd357aabf66",
+        "parentUid" : "1acdc25802b1f77ebe6eb30da01c915a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1665391820192,
+          "stop" : 1665391820197,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-106.0.5249.103" ]
+      } ],
+      "uid" : "1acdc25802b1f77ebe6eb30da01c915a"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

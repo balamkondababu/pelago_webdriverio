@@ -1,0 +1,309 @@
+{
+  "uid" : "b4cfa519197781e4",
+  "name" : "Then user logout",
+  "fullName" : "login into pelago website: As a user, I can log into pelago website.Then user logout",
+  "historyId" : "16be5121a4d4db95b4f7173479ba8f6f",
+  "time" : {
+    "start" : 1665387062957,
+    "stop" : 1665387063068,
+    "duration" : 111
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1665387062958,
+        "stop" : 1665387062970,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4cb6daab3a056875",
+        "name" : "Request",
+        "source" : "4cb6daab3a056875.json",
+        "type" : "application/json",
+        "size" : 79
+      }, {
+        "uid" : "9e9a1b31977991f7",
+        "name" : "Response",
+        "source" : "9e9a1b31977991f7.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1665387062973,
+        "stop" : 1665387062984,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f685c60e04c1eea5",
+        "name" : "Request",
+        "source" : "f685c60e04c1eea5.json",
+        "type" : "application/json",
+        "size" : 8331
+      }, {
+        "uid" : "4afe00d56d008a7",
+        "name" : "Response",
+        "source" : "4afe00d56d008a7.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1665387062984,
+        "stop" : 1665387062993,
+        "duration" : 9
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9c792d6902949a7a",
+        "name" : "Request",
+        "source" : "9c792d6902949a7a.json",
+        "type" : "application/json",
+        "size" : 79
+      }, {
+        "uid" : "50279a50cb5f5806",
+        "name" : "Response",
+        "source" : "50279a50cb5f5806.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/72c2cffc-57c9-44a8-b060-704998128ae8/click",
+      "time" : {
+        "start" : 1665387062994,
+        "stop" : 1665387063019,
+        "duration" : 25
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1665387063019,
+        "stop" : 1665387063028,
+        "duration" : 9
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "1b7d5dbf1cfce620",
+        "name" : "Request",
+        "source" : "1b7d5dbf1cfce620.json",
+        "type" : "application/json",
+        "size" : 73
+      }, {
+        "uid" : "6d30baa54588744f",
+        "name" : "Response",
+        "source" : "6d30baa54588744f.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/f5419ec2-c61a-4cfa-9710-fc0ee40f6ace/click",
+      "time" : {
+        "start" : 1665387063030,
+        "stop" : 1665387063067,
+        "duration" : 37
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/refresh",
+      "time" : {
+        "start" : 1665387063067,
+        "stop" : 0,
+        "duration" : -1665387063067
+      },
+      "status" : "unknown",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 7,
+    "attachmentsCount" : 8,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "login into pelago website: As a user, I can log into pelago website"
+  }, {
+    "name" : "testClass",
+    "value" : "login into pelago website: As a user, I can log into pelago website"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then user logout"
+  }, {
+    "name" : "package",
+    "value" : "login into pelago website: As a user, I can log into pelago website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-106.0.5249.103"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6e9a72f825ad3c72",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387058423,
+        "stop" : 1665387058572,
+        "duration" : 149
+      }
+    }, {
+      "uid" : "2b9ee8841c167f10",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665387030964,
+        "stop" : 1665387030964,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "4e9ca6ca802b23a7",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665387030866,
+        "stop" : 1665387030866,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "364d5601603627b3",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386413764,
+        "stop" : 1665386413765,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "447fb406e2012813",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386403730,
+        "stop" : 1665386403731,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "b13a50bb19e16a74",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386319127,
+        "stop" : 1665386319127,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5efd0c5cb18064f8",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386309094,
+        "stop" : 1665386309094,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "892e700ff4d1e5df",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386224214,
+        "stop" : 1665386224214,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "7e54163fd6e2af70",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386224193,
+        "stop" : 1665386224194,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "7a14ed7e58245a82",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386107716,
+        "stop" : 1665386107716,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "80dce438a871b969",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386107696,
+        "stop" : 1665386107696,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b4cfa519197781e4.json",
+  "parameterValues" : [ "chrome-106.0.5249.103" ]
+}

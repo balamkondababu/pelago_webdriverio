@@ -1,0 +1,161 @@
+{
+  "uid" : "9f8319e7ba7a73d1",
+  "name" : "Given user is on the pelago home page \"https://www.pelago.co/en-IN/\"",
+  "fullName" : "login into pelago website: As a user, I am able to book activity in pelago website.Given user is on the pelago home page \"https://www.pelago.co/en-IN/\"",
+  "historyId" : "395d5a66d9d4fc651cf657c28526772b",
+  "time" : {
+    "start" : 1665391812341,
+    "stop" : 1665391816029,
+    "duration" : 3688
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1665391812346,
+        "stop" : 1665391816028,
+        "duration" : 3682
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "86ecc5e965b04984",
+        "name" : "Request",
+        "source" : "86ecc5e965b04984.json",
+        "type" : "application/json",
+        "size" : 43
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "login into pelago website: As a user, I am able to book activity in pelago website"
+  }, {
+    "name" : "testClass",
+    "value" : "login into pelago website: As a user, I am able to book activity in pelago website"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given user is on the pelago home page \"https://www.pelago.co/en-IN/\""
+  }, {
+    "name" : "package",
+    "value" : "login into pelago website: As a user, I am able to book activity in pelago website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-106.0.5249.103"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fc6bdb481ca52b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665388501316,
+        "stop" : 1665388504772,
+        "duration" : 3456
+      }
+    }, {
+      "uid" : "dbeb98a764373796",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665388121043,
+        "stop" : 1665388124368,
+        "duration" : 3325
+      }
+    }, {
+      "uid" : "ccff1b4e94c805cf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665388086858,
+        "stop" : 1665388090177,
+        "duration" : 3319
+      }
+    }, {
+      "uid" : "310d91c3f5ab1549",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387713153,
+        "stop" : 1665387716699,
+        "duration" : 3546
+      }
+    }, {
+      "uid" : "7696ce647c70a6a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387488810,
+        "stop" : 1665387491182,
+        "duration" : 2372
+      }
+    }, {
+      "uid" : "4a66e0993488bece",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387351522,
+        "stop" : 1665387355945,
+        "duration" : 4423
+      }
+    }, {
+      "uid" : "15909a01851c2f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387327305,
+        "stop" : 1665387330496,
+        "duration" : 3191
+      }
+    }, {
+      "uid" : "5804b40b913ae9fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387257183,
+        "stop" : 1665387260422,
+        "duration" : 3239
+      }
+    }, {
+      "uid" : "4fcbb56756d3385d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387127779,
+        "stop" : 1665387132406,
+        "duration" : 4627
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9f8319e7ba7a73d1.json",
+  "parameterValues" : [ "chrome-106.0.5249.103" ]
+}

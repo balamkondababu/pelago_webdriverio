@@ -1,0 +1,191 @@
+[ {
+  "uid" : "a108db52c46027ad",
+  "name" : "When I login with tomsmith and SuperSecretPassword!",
+  "time" : {
+    "start" : 1665385738858,
+    "stop" : 1665385739762,
+    "duration" : 904
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5813a1949fe6100f",
+  "name" : "Given user is on the pelago home page \"https://www.pelago.co/en-IN/\"",
+  "time" : {
+    "start" : 1665387058587,
+    "stop" : 1665387060228,
+    "duration" : 1641
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "743b517407551928",
+  "name" : "When user search for an activity \"universal studios singapore\"",
+  "time" : {
+    "start" : 1665391816029,
+    "stop" : 1665391818059,
+    "duration" : 2030
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "67806ea9bf4daa1",
+  "name" : "",
+  "time" : {
+    "start" : 1665391820197,
+    "stop" : 1665391820198,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3e1e609eece231bc",
+  "name" : "Then I should see a flash message saying Your username is invalid!",
+  "time" : {
+    "start" : 1665385741055,
+    "stop" : 1665385741111,
+    "duration" : 56
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c55b423351660419",
+  "name" : "",
+  "time" : {
+    "start" : 1665387063068,
+    "stop" : 1665387063068,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ac24c8ed307d1145",
+  "name" : "Given I am on the login page",
+  "time" : {
+    "start" : 1665385739860,
+    "stop" : 1665385740145,
+    "duration" : 285
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "125ff99675e49039",
+  "name" : "",
+  "time" : {
+    "start" : 1665385741111,
+    "stop" : 1665385741111,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1619f999f8479130",
+  "name" : "Then I should see a flash message saying You logged into a secure area!",
+  "time" : {
+    "start" : 1665385739762,
+    "stop" : 1665385739846,
+    "duration" : 84
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b4cfa519197781e4",
+  "name" : "Then user logout",
+  "time" : {
+    "start" : 1665387062957,
+    "stop" : 1665387063068,
+    "duration" : 111
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f74d7aca2d9f58e8",
+  "name" : "Given user is on the pelago home page",
+  "time" : {
+    "start" : 1665386224104,
+    "stop" : 1665386224127,
+    "duration" : 23
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "af71e0a6b678dfe5",
+  "name" : "When user login with \"balamkondababu@gmail.com\" and \"bobby@123\"",
+  "time" : {
+    "start" : 1665387056108,
+    "stop" : 1665387056784,
+    "duration" : 676
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "34698e998571e31d",
+  "name" : "Then view options and check availability for an activity",
+  "time" : {
+    "start" : 1665391818060,
+    "stop" : 1665391820192,
+    "duration" : 2132
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "27d4bdd357aabf66",
+  "name" : "Then select the next available date",
+  "time" : {
+    "start" : 1665391820192,
+    "stop" : 1665391820197,
+    "duration" : 5
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c7f42d7acb9baa81",
+  "name" : "Given user is on the pelago home page",
+  "time" : {
+    "start" : 1665386224212,
+    "stop" : 1665386224213,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "54e46c5fd559e1bf",
+  "name" : "When I login with foobar and barfoo",
+  "time" : {
+    "start" : 1665385740145,
+    "stop" : 1665385741055,
+    "duration" : 910
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "53ccf3e133544e14",
+  "name" : "When user login with \"bobby26227@gmail.com\" and \"Bobby@123\"",
+  "time" : {
+    "start" : 1665387060228,
+    "stop" : 1665387060896,
+    "duration" : 668
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f8319e7ba7a73d1",
+  "name" : "Given user is on the pelago home page \"https://www.pelago.co/en-IN/\"",
+  "time" : {
+    "start" : 1665391812341,
+    "stop" : 1665391816029,
+    "duration" : 3688
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8517e131432e5146",
+  "name" : "Then user should login successfully",
+  "time" : {
+    "start" : 1665387060897,
+    "stop" : 1665387062957,
+    "duration" : 2060
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

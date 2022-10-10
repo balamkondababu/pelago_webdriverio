@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//input[@placeholder=\"Search for destinations or activities to do...\"]//following::div[1]"
+}

@@ -1,0 +1,56 @@
+{
+  "uid" : "447fb406e2012813",
+  "name" : "Then user logout",
+  "fullName" : "login into pelago website: As a user, I can log into pelago website.Then user logout",
+  "historyId" : "16be5121a4d4db95b4f7173479ba8f6f",
+  "time" : {
+    "start" : 1665386403730,
+    "stop" : 1665386403731,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "login into pelago website: As a user, I can log into pelago website"
+  }, {
+    "name" : "testClass",
+    "value" : "login into pelago website: As a user, I can log into pelago website"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then user logout"
+  }, {
+    "name" : "package",
+    "value" : "login into pelago website: As a user, I can log into pelago website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-106.0.5249.103"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "447fb406e2012813.json",
+  "parameterValues" : [ "chrome-106.0.5249.103" ]
+}

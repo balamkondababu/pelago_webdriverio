@@ -1,0 +1,56 @@
+{
+  "uid" : "68ed4a0e61b7ef6c",
+  "name" : "When user login with \"bobby26227@gmail.com\" and \"Bobby@123\"",
+  "fullName" : "login into pelago website: As a user, I can log into pelago website.When user login with \"bobby26227@gmail.com\" and \"Bobby@123\"",
+  "historyId" : "c94cbee046587ec97a1bc787c6917a6",
+  "time" : {
+    "start" : 1665386107716,
+    "stop" : 1665386107716,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "login into pelago website: As a user, I can log into pelago website"
+  }, {
+    "name" : "testClass",
+    "value" : "login into pelago website: As a user, I can log into pelago website"
+  }, {
+    "name" : "testMethod",
+    "value" : "When user login with \"bobby26227@gmail.com\" and \"Bobby@123\""
+  }, {
+    "name" : "package",
+    "value" : "login into pelago website: As a user, I can log into pelago website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-106.0.5249.103"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "68ed4a0e61b7ef6c.json",
+  "parameterValues" : [ "chrome-106.0.5249.103" ]
+}

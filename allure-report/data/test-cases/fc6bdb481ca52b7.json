@@ -1,0 +1,87 @@
+{
+  "uid" : "fc6bdb481ca52b7",
+  "name" : "Given user is on the pelago home page \"https://www.pelago.co/en-IN/\"",
+  "fullName" : "login into pelago website: As a user, I am able to book activity in pelago website.Given user is on the pelago home page \"https://www.pelago.co/en-IN/\"",
+  "historyId" : "395d5a66d9d4fc651cf657c28526772b",
+  "time" : {
+    "start" : 1665388501316,
+    "stop" : 1665388504772,
+    "duration" : 3456
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1665388501320,
+        "stop" : 1665388504771,
+        "duration" : 3451
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c7daf75025d479ee",
+        "name" : "Request",
+        "source" : "c7daf75025d479ee.json",
+        "type" : "application/json",
+        "size" : 43
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "login into pelago website: As a user, I am able to book activity in pelago website"
+  }, {
+    "name" : "testClass",
+    "value" : "login into pelago website: As a user, I am able to book activity in pelago website"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given user is on the pelago home page \"https://www.pelago.co/en-IN/\""
+  }, {
+    "name" : "package",
+    "value" : "login into pelago website: As a user, I am able to book activity in pelago website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-106.0.5249.103"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fc6bdb481ca52b7.json",
+  "parameterValues" : [ "chrome-106.0.5249.103" ]
+}

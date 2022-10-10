@@ -1,0 +1,56 @@
+{
+  "uid" : "f574ba16e1233458",
+  "name" : "Given user is on the pelago home page",
+  "fullName" : "login into pelago website: As a user, I can log into pelago website.Given user is on the pelago home page",
+  "historyId" : "ff8a88078e698694d9e9bc7f96dc2d40",
+  "time" : {
+    "start" : 1665386107714,
+    "stop" : 1665386107716,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "login into pelago website: As a user, I can log into pelago website"
+  }, {
+    "name" : "testClass",
+    "value" : "login into pelago website: As a user, I can log into pelago website"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given user is on the pelago home page"
+  }, {
+    "name" : "package",
+    "value" : "login into pelago website: As a user, I can log into pelago website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-106.0.5249.103"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f574ba16e1233458.json",
+  "parameterValues" : [ "chrome-106.0.5249.103" ]
+}

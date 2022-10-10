@@ -1,0 +1,113 @@
+{
+  "uid" : "f0b72bac8500778f",
+  "name" : "Then select the next available date",
+  "fullName" : "login into pelago website: As a user, I am able to book activity in pelago website.Then select the next available date",
+  "historyId" : "b92eefa37e7b7cfedb9d2592d5deb3e4",
+  "time" : {
+    "start" : 1665388507488,
+    "stop" : 1665388507807,
+    "duration" : 319
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "invalid element state: invalid element state",
+  "statusTrace" : "invalid element state: invalid element state\n                  (Session info: chrome=106.0.5249.103)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "invalid element state: invalid element state",
+    "statusTrace" : "invalid element state: invalid element state\n                  (Session info: chrome=106.0.5249.103)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1665388507489,
+        "stop" : 1665388507677,
+        "duration" : 188
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9db5d81e8b0e44a7",
+        "name" : "Request",
+        "source" : "9db5d81e8b0e44a7.json",
+        "type" : "application/json",
+        "size" : 80
+      }, {
+        "uid" : "1160b027f60fa3b6",
+        "name" : "Response",
+        "source" : "1160b027f60fa3b6.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/25e1c88d-d64f-49c3-8792-351af59b3fd0/clear",
+      "time" : {
+        "start" : 1665388507679,
+        "stop" : 1665388507806,
+        "duration" : 127
+      },
+      "status" : "broken",
+      "statusMessage" : "invalid element state: invalid element state\n                  (Session info: chrome=106.0.5249.103)\n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "login into pelago website: As a user, I am able to book activity in pelago website"
+  }, {
+    "name" : "testClass",
+    "value" : "login into pelago website: As a user, I am able to book activity in pelago website"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then select the next available date"
+  }, {
+    "name" : "package",
+    "value" : "login into pelago website: As a user, I am able to book activity in pelago website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-106.0.5249.103"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f0b72bac8500778f.json",
+  "parameterValues" : [ "chrome-106.0.5249.103" ]
+}

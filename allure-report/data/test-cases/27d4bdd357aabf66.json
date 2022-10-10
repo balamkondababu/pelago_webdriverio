@@ -1,0 +1,73 @@
+{
+  "uid" : "27d4bdd357aabf66",
+  "name" : "Then select the next available date",
+  "fullName" : "login into pelago website: As a user, I am able to book activity in pelago website.Then select the next available date",
+  "historyId" : "b92eefa37e7b7cfedb9d2592d5deb3e4",
+  "time" : {
+    "start" : 1665391820192,
+    "stop" : 1665391820197,
+    "duration" : 5
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Error: Malformed type for \"args\" parameter of command executeScript",
+  "statusTrace" : "Error: Malformed type for \"args\" parameter of command executeScript\n                Expected: (string|object|number|boolean|undefined)[]\n                Actual: (undefined)[]\n                \n                For more info see https://w3c.github.io/webdriver/#dfn-execute-script\n                \n                    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n                    at async ProductPage.selectDate (/Users/kondababubalam/Documents/pelago_webdriverio/features/pageobjects/product.page.ts:26:9)\n                    at async World.<anonymous> (/Users/kondababubalam/Documents/pelago_webdriverio/features/step-definitions/activity.steps.ts:17:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "login into pelago website: As a user, I am able to book activity in pelago website"
+  }, {
+    "name" : "testClass",
+    "value" : "login into pelago website: As a user, I am able to book activity in pelago website"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then select the next available date"
+  }, {
+    "name" : "package",
+    "value" : "login into pelago website: As a user, I am able to book activity in pelago website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-106.0.5249.103"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f0b72bac8500778f",
+      "status" : "broken",
+      "statusDetails" : "invalid element state: invalid element state",
+      "time" : {
+        "start" : 1665388507488,
+        "stop" : 1665388507807,
+        "duration" : 319
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "27d4bdd357aabf66.json",
+  "parameterValues" : [ "chrome-106.0.5249.103" ]
+}

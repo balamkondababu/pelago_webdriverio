@@ -1,0 +1,264 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "The Internet Guinea Pig Website: As a user, I can log into the secure area",
+    "children" : [ {
+      "name" : "When I login with tomsmith and SuperSecretPassword!",
+      "uid" : "a108db52c46027ad",
+      "parentUid" : "6badb559fa5f7ac90ef8fdb4c6d57c23",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665385738858,
+        "stop" : 1665385739762,
+        "duration" : 904
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then I should see a flash message saying You logged into a secure area!",
+      "uid" : "1619f999f8479130",
+      "parentUid" : "6badb559fa5f7ac90ef8fdb4c6d57c23",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665385739762,
+        "stop" : 1665385739846,
+        "duration" : 84
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Given I am on the login page",
+      "uid" : "ac24c8ed307d1145",
+      "parentUid" : "6badb559fa5f7ac90ef8fdb4c6d57c23",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665385739860,
+        "stop" : 1665385740145,
+        "duration" : 285
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "When I login with foobar and barfoo",
+      "uid" : "54e46c5fd559e1bf",
+      "parentUid" : "6badb559fa5f7ac90ef8fdb4c6d57c23",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665385740145,
+        "stop" : 1665385741055,
+        "duration" : 910
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then I should see a flash message saying Your username is invalid!",
+      "uid" : "3e1e609eece231bc",
+      "parentUid" : "6badb559fa5f7ac90ef8fdb4c6d57c23",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665385741055,
+        "stop" : 1665385741111,
+        "duration" : 56
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "125ff99675e49039",
+      "parentUid" : "6badb559fa5f7ac90ef8fdb4c6d57c23",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665385741111,
+        "stop" : 1665385741111,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    } ],
+    "uid" : "6badb559fa5f7ac90ef8fdb4c6d57c23"
+  }, {
+    "name" : "login into pelago website: As a user, I am able to book activity in pelago website",
+    "children" : [ {
+      "name" : "Given user is on the pelago home page",
+      "uid" : "f74d7aca2d9f58e8",
+      "parentUid" : "8704b89b8be288e6967aac25598a73f9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386224104,
+        "stop" : 1665386224127,
+        "duration" : 23
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Given user is on the pelago home page \"https://www.pelago.co/en-IN/\"",
+      "uid" : "9f8319e7ba7a73d1",
+      "parentUid" : "8704b89b8be288e6967aac25598a73f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665391812341,
+        "stop" : 1665391816029,
+        "duration" : 3688
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "When user search for an activity \"universal studios singapore\"",
+      "uid" : "743b517407551928",
+      "parentUid" : "8704b89b8be288e6967aac25598a73f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665391816029,
+        "stop" : 1665391818059,
+        "duration" : 2030
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then view options and check availability for an activity",
+      "uid" : "34698e998571e31d",
+      "parentUid" : "8704b89b8be288e6967aac25598a73f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665391818060,
+        "stop" : 1665391820192,
+        "duration" : 2132
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then select the next available date",
+      "uid" : "27d4bdd357aabf66",
+      "parentUid" : "8704b89b8be288e6967aac25598a73f9",
+      "status" : "broken",
+      "time" : {
+        "start" : 1665391820192,
+        "stop" : 1665391820197,
+        "duration" : 5
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "67806ea9bf4daa1",
+      "parentUid" : "8704b89b8be288e6967aac25598a73f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665391820197,
+        "stop" : 1665391820198,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    } ],
+    "uid" : "8704b89b8be288e6967aac25598a73f9"
+  }, {
+    "name" : "login into pelago website: As a user, I can log into pelago website",
+    "children" : [ {
+      "name" : "Given user is on the pelago home page",
+      "uid" : "c7f42d7acb9baa81",
+      "parentUid" : "100966a340e42096c68ceba08fc10b2e",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386224212,
+        "stop" : 1665386224213,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "When user login with \"balamkondababu@gmail.com\" and \"bobby@123\"",
+      "uid" : "af71e0a6b678dfe5",
+      "parentUid" : "100966a340e42096c68ceba08fc10b2e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387056108,
+        "stop" : 1665387056784,
+        "duration" : 676
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Given user is on the pelago home page \"https://www.pelago.co/en-IN/\"",
+      "uid" : "5813a1949fe6100f",
+      "parentUid" : "100966a340e42096c68ceba08fc10b2e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387058587,
+        "stop" : 1665387060228,
+        "duration" : 1641
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "When user login with \"bobby26227@gmail.com\" and \"Bobby@123\"",
+      "uid" : "53ccf3e133544e14",
+      "parentUid" : "100966a340e42096c68ceba08fc10b2e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387060228,
+        "stop" : 1665387060896,
+        "duration" : 668
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then user should login successfully",
+      "uid" : "8517e131432e5146",
+      "parentUid" : "100966a340e42096c68ceba08fc10b2e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387060897,
+        "stop" : 1665387062957,
+        "duration" : 2060
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then user logout",
+      "uid" : "b4cfa519197781e4",
+      "parentUid" : "100966a340e42096c68ceba08fc10b2e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387062957,
+        "stop" : 1665387063068,
+        "duration" : 111
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "c55b423351660419",
+      "parentUid" : "100966a340e42096c68ceba08fc10b2e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387063068,
+        "stop" : 1665387063068,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    } ],
+    "uid" : "100966a340e42096c68ceba08fc10b2e"
+  } ]
+}

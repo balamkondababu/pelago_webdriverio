@@ -1,0 +1,285 @@
+{
+  "uid" : "42aef3caf7dbd43f",
+  "name" : "Then view options and check availability for an activity",
+  "fullName" : "login into pelago website: As a user, I am able to book activity in pelago website.Then view options and check availability for an activity",
+  "historyId" : "7eb4c9da8403f4bf26104dab485ff0ff",
+  "time" : {
+    "start" : 1665388126070,
+    "stop" : 1665388127842,
+    "duration" : 1772
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1665388126071,
+        "stop" : 1665388126088,
+        "duration" : 17
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "fa7d50161519b370",
+        "name" : "Request",
+        "source" : "fa7d50161519b370.json",
+        "type" : "application/json",
+        "size" : 79
+      }, {
+        "uid" : "cab72621833945a8",
+        "name" : "Response",
+        "source" : "cab72621833945a8.json",
+        "type" : "application/json",
+        "size" : 1962
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1665388126091,
+        "stop" : 1665388126115,
+        "duration" : 24
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c25b954796a6e032",
+        "name" : "Request",
+        "source" : "c25b954796a6e032.json",
+        "type" : "application/json",
+        "size" : 79
+      }, {
+        "uid" : "6ca56aeb6c375b1c",
+        "name" : "Response",
+        "source" : "6ca56aeb6c375b1c.json",
+        "type" : "application/json",
+        "size" : 2
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1665388126592,
+        "stop" : 1665388126608,
+        "duration" : 16
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "75334560b26804da",
+        "name" : "Request",
+        "source" : "75334560b26804da.json",
+        "type" : "application/json",
+        "size" : 79
+      }, {
+        "uid" : "56f5143a9297668f",
+        "name" : "Response",
+        "source" : "56f5143a9297668f.json",
+        "type" : "application/json",
+        "size" : 2
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1665388127092,
+        "stop" : 1665388127337,
+        "duration" : 245
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "73082c0314010fbb",
+        "name" : "Request",
+        "source" : "73082c0314010fbb.json",
+        "type" : "application/json",
+        "size" : 79
+      }, {
+        "uid" : "376db6488f97da22",
+        "name" : "Response",
+        "source" : "376db6488f97da22.json",
+        "type" : "application/json",
+        "size" : 2
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1665388127592,
+        "stop" : 1665388127646,
+        "duration" : 54
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "907bb183311d46dd",
+        "name" : "Request",
+        "source" : "907bb183311d46dd.json",
+        "type" : "application/json",
+        "size" : 79
+      }, {
+        "uid" : "88565b272682c099",
+        "name" : "Response",
+        "source" : "88565b272682c099.json",
+        "type" : "application/json",
+        "size" : 93
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1665388127649,
+        "stop" : 1665388127657,
+        "duration" : 8
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "28e57a03f7db4c16",
+        "name" : "Request",
+        "source" : "28e57a03f7db4c16.json",
+        "type" : "application/json",
+        "size" : 79
+      }, {
+        "uid" : "91bd8f62b9f77e7",
+        "name" : "Response",
+        "source" : "91bd8f62b9f77e7.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/468313a9-7ed5-48f9-b7bf-9ef61e4a48cc/click",
+      "time" : {
+        "start" : 1665388127659,
+        "stop" : 1665388127705,
+        "duration" : 46
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1665388127705,
+        "stop" : 1665388127717,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3734eaaa3649d5e5",
+        "name" : "Request",
+        "source" : "3734eaaa3649d5e5.json",
+        "type" : "application/json",
+        "size" : 86
+      }, {
+        "uid" : "32bee24194d1e1b0",
+        "name" : "Response",
+        "source" : "32bee24194d1e1b0.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/2565aca8-880e-429e-8d48-b7c832c6ee13/click",
+      "time" : {
+        "start" : 1665388127719,
+        "stop" : 1665388127841,
+        "duration" : 122
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 9,
+    "attachmentsCount" : 14,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "login into pelago website: As a user, I am able to book activity in pelago website"
+  }, {
+    "name" : "testClass",
+    "value" : "login into pelago website: As a user, I am able to book activity in pelago website"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then view options and check availability for an activity"
+  }, {
+    "name" : "package",
+    "value" : "login into pelago website: As a user, I am able to book activity in pelago website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-106.0.5249.103"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "42aef3caf7dbd43f.json",
+  "parameterValues" : [ "chrome-106.0.5249.103" ]
+}

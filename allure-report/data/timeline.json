@@ -1,0 +1,1712 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "When user search for an activity \"universal studios singapore\"",
+      "uid" : "e39d58459d64190b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387491182,
+        "stop" : 1665387491524,
+        "duration" : 342
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Given user is on the pelago home page \"https://www.pelago.co/en-IN/\"",
+      "uid" : "15909a01851c2f7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387327305,
+        "stop" : 1665387330496,
+        "duration" : 3191
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "2fdc6e754dcb5399",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387127777,
+        "stop" : 1665387127779,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Given user is on the pelago home page \"https://www.pelago.co/en-IN/\"",
+      "uid" : "5804b40b913ae9fa",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387257183,
+        "stop" : 1665387260422,
+        "duration" : 3239
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Given user is on the pelago home page \"https://www.pelago.co/en-IN/\"",
+      "uid" : "4a66e0993488bece",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387351522,
+        "stop" : 1665387355945,
+        "duration" : 4423
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then user should login successfully",
+      "uid" : "f0a879162372197b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386309094,
+        "stop" : 1665386309094,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "When user login with \"balamkondababu@gmail.com\" and \"bobby@123\"",
+      "uid" : "1af9a2a21050e005",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386224193,
+        "stop" : 1665386224193,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then user logout",
+      "uid" : "6e9a72f825ad3c72",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387058423,
+        "stop" : 1665387058572,
+        "duration" : 149
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then user should login successfully",
+      "uid" : "553e658f5890e105",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386403730,
+        "stop" : 1665386403730,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then view options and check availability for an activity",
+      "uid" : "42aef3caf7dbd43f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665388126070,
+        "stop" : 1665388127842,
+        "duration" : 1772
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then user logout",
+      "uid" : "80dce438a871b969",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386107696,
+        "stop" : 1665386107696,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "880c41f99e9b900d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387356162,
+        "stop" : 1665387356163,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "When user login with \"bobby26227@gmail.com\" and \"Bobby@123\"",
+      "uid" : "68ed4a0e61b7ef6c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386107716,
+        "stop" : 1665386107716,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then select the next available date",
+      "uid" : "27d4bdd357aabf66",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1665391820192,
+        "stop" : 1665391820197,
+        "duration" : 5
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "67806ea9bf4daa1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665391820197,
+        "stop" : 1665391820198,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then user should login successfully",
+      "uid" : "8517e131432e5146",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387060897,
+        "stop" : 1665387062957,
+        "duration" : 2060
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Given user is on the pelago home page",
+      "uid" : "20d50f02604f7fa8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386107666,
+        "stop" : 1665386107675,
+        "duration" : 9
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "d1db0acd06567af3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665386309095,
+        "stop" : 1665386309095,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "When user login with \"balamkondababu@gmail.com\" and \"bobby@123\"",
+      "uid" : "9a29f52c032a0081",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1665386299024,
+        "stop" : 1665386309094,
+        "duration" : 10070
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then user should login successfully",
+      "uid" : "a02916291d4dcfd0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386107716,
+        "stop" : 1665386107716,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "a6c892bbe68f81bf",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665386319128,
+        "stop" : 1665386319128,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "When I login with tomsmith and SuperSecretPassword!",
+      "uid" : "a108db52c46027ad",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665385738858,
+        "stop" : 1665385739762,
+        "duration" : 904
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "8ba0fa6866c95042",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387351521,
+        "stop" : 1665387351522,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "a4635ea1ebb8b580",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665385739846,
+        "stop" : 1665385739847,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Given user is on the pelago home page",
+      "uid" : "f74d7aca2d9f58e8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386224104,
+        "stop" : 1665386224127,
+        "duration" : 23
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Given I am on the login page",
+      "uid" : "c9cfa715ee3ee51d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665385733730,
+        "stop" : 1665385738857,
+        "duration" : 5127
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "b4b7b8f5fccd6149",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665385733728,
+        "stop" : 1665385733730,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then user logout",
+      "uid" : "364d5601603627b3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386413764,
+        "stop" : 1665386413765,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "When user search for an activity \"universal studios singapore\"",
+      "uid" : "5e2d3086d047e28d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1665387260422,
+        "stop" : 1665387260742,
+        "duration" : 320
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "When user search for an activity \"universal studios singapore\"",
+      "uid" : "d1c1408ce16d84ee",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1665387330496,
+        "stop" : 1665387330844,
+        "duration" : 348
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "When user login with \"balamkondababu@gmail.com\" and \"bobby@123\"",
+      "uid" : "9cdf2ea57b6e39ab",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386107695,
+        "stop" : 1665386107695,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then user should login successfully",
+      "uid" : "138b8f9f95e25e67",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386224213,
+        "stop" : 1665386224213,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then I should see a flash message saying Your username is invalid!",
+      "uid" : "3e1e609eece231bc",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665385741055,
+        "stop" : 1665385741111,
+        "duration" : 56
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Given user is on the pelago home page \"https://www.pelago.co/en-IN/\"",
+      "uid" : "9f8319e7ba7a73d1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665391812341,
+        "stop" : 1665391816029,
+        "duration" : 3688
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "ff18ab6d2e2f014b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665388086857,
+        "stop" : 1665388086858,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "83d10bc09fc4aaf5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665386403731,
+        "stop" : 1665386403731,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then user logout",
+      "uid" : "5efd0c5cb18064f8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386309094,
+        "stop" : 1665386309094,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then user should login successfully",
+      "uid" : "ea1fb3e42ba0889e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386224193,
+        "stop" : 1665386224193,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Given user is on the pelago home page \"https://www.pelago.co/en-IN/\"",
+      "uid" : "dbeb98a764373796",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665388121043,
+        "stop" : 1665388124368,
+        "duration" : 3325
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "When user search for an activity \"universal studios singapore\"",
+      "uid" : "40e3fb11987dd000",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665388124369,
+        "stop" : 1665388126070,
+        "duration" : 1701
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "When user login with \"balamkondababu@gmail.com\" and \"bobby@123\"",
+      "uid" : "f086c82c4112f13e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665387030865,
+        "stop" : 1665387030865,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then user should login successfully",
+      "uid" : "b5df7c45993cfcbd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387056784,
+        "stop" : 1665387058423,
+        "duration" : 1639
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "6ddf43ce2f8b0d5d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665388127842,
+        "stop" : 1665388127843,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "When user search for an activity \"universal studios singapore\"",
+      "uid" : "70a83e2a5f6f866c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386224127,
+        "stop" : 1665386224128,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "a2c434c7d013b50b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387030862,
+        "stop" : 1665387030863,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Given user is on the pelago home page \"https://www.pelago.co/en-IN/\"",
+      "uid" : "310d91c3f5ab1549",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387713153,
+        "stop" : 1665387716699,
+        "duration" : 3546
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "c079377f58007fa8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387257180,
+        "stop" : 1665387257182,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Given user is on the pelago home page \"https://www.pelago.co/en-IN/\"",
+      "uid" : "7696ce647c70a6a2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387488810,
+        "stop" : 1665387491182,
+        "duration" : 2372
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "3495d6382693013c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665391812339,
+        "stop" : 1665391812340,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "5390986a54bbb3ac",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387327301,
+        "stop" : 1665387327305,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then user should login successfully",
+      "uid" : "e5b5827777d6537e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665387030964,
+        "stop" : 1665387030964,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "b27b92900fde15e6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387030964,
+        "stop" : 1665387030965,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Given user is on the pelago home page \"https://www.pelago.co/en-IN/\"",
+      "uid" : "6a258790d07c37e1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1665387030963,
+        "stop" : 1665387030963,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "7d474446d4b58277",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387030962,
+        "stop" : 1665387030963,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "fc16a57aa866b4d8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665386224214,
+        "stop" : 1665386224214,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Given user is on the pelago home page",
+      "uid" : "f574ba16e1233458",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386107714,
+        "stop" : 1665386107716,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then user should login successfully",
+      "uid" : "1300584eb9bd4af5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665387030865,
+        "stop" : 1665387030866,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "When user login with \"bobby26227@gmail.com\" and \"Bobby@123\"",
+      "uid" : "53ccf3e133544e14",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387060228,
+        "stop" : 1665387060896,
+        "duration" : 668
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "When user login with \"bobby26227@gmail.com\" and \"Bobby@123\"",
+      "uid" : "7a19375d61f440bd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1665386403751,
+        "stop" : 1665386413764,
+        "duration" : 10013
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then I should see a flash message saying You logged into a secure area!",
+      "uid" : "1619f999f8479130",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665385739762,
+        "stop" : 1665385739846,
+        "duration" : 84
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "15cf92a596e7e584",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387030866,
+        "stop" : 1665387030866,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "f8ed1d1697e9570e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665386107716,
+        "stop" : 1665386107717,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "When user login with \"bobby26227@gmail.com\" and \"Bobby@123\"",
+      "uid" : "d36f63c29638f366",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1665386309111,
+        "stop" : 1665386319127,
+        "duration" : 10016
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "5f1ea2ac8b1fb296",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665386413765,
+        "stop" : 1665386413765,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "82e5d2b6f9297913",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665386224101,
+        "stop" : 1665386224103,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "54e9b109e1021340",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665386224192,
+        "stop" : 1665386224192,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "bf760a083e7022b0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665385739859,
+        "stop" : 1665385739860,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "1e4172284a6f27a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387491524,
+        "stop" : 1665387491524,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "d38cbf10466b6f08",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665386309111,
+        "stop" : 1665386309111,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "98ae0b8df6685fcb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387488808,
+        "stop" : 1665387488810,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "When user search for an activity \"universal studios singapore\"",
+      "uid" : "5ff7002d0a7ce92b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387355945,
+        "stop" : 1665387356162,
+        "duration" : 217
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "When user search for an activity \"universal studios singapore\"",
+      "uid" : "8c738781f2e4354b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665388504772,
+        "stop" : 1665388506257,
+        "duration" : 1485
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "9446b0784fe085cc",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387713152,
+        "stop" : 1665387713153,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "5c780da6bff3b87e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665386299022,
+        "stop" : 1665386299024,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then user logout",
+      "uid" : "b13a50bb19e16a74",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386319127,
+        "stop" : 1665386319127,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "9588ee621356d5ab",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665388501314,
+        "stop" : 1665388501316,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "When user login with \"bobby26227@gmail.com\" and \"Bobby@123\"",
+      "uid" : "dbd8699a9387b1bf",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386224213,
+        "stop" : 1665386224213,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then user logout",
+      "uid" : "4e9ca6ca802b23a7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665387030866,
+        "stop" : 1665387030866,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "When user login with \"balamkondababu@gmail.com\" and \"bobby@123\"",
+      "uid" : "af71e0a6b678dfe5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387056108,
+        "stop" : 1665387056784,
+        "duration" : 676
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then user logout",
+      "uid" : "892e700ff4d1e5df",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386224214,
+        "stop" : 1665386224214,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "4f8428b81fe2ab0d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665386107676,
+        "stop" : 1665386107676,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "65c3c9711fbd7aac",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665386403750,
+        "stop" : 1665386403751,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then view options and check availability for an activity",
+      "uid" : "327bc24e7d242d35",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665388506257,
+        "stop" : 1665388507488,
+        "duration" : 1231
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then view options and check availability for an activity",
+      "uid" : "34698e998571e31d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665391818060,
+        "stop" : 1665391820192,
+        "duration" : 2132
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Given I am on the login page",
+      "uid" : "ac24c8ed307d1145",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665385739860,
+        "stop" : 1665385740145,
+        "duration" : 285
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then select the next available date",
+      "uid" : "f0b72bac8500778f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1665388507488,
+        "stop" : 1665388507807,
+        "duration" : 319
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "When user login with \"bobby26227@gmail.com\" and \"Bobby@123\"",
+      "uid" : "f9c644d7e4837a58",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665387030963,
+        "stop" : 1665387030964,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "c3f004ee8e8f6f70",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665386224194,
+        "stop" : 1665386224194,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Given user is on the pelago home page \"https://www.pelago.co/en-IN/\"",
+      "uid" : "2a69925403831932",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1665387030864,
+        "stop" : 1665387030865,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then user should login successfully",
+      "uid" : "989e5479562d986b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386107696,
+        "stop" : 1665386107696,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Given user is on the pelago home page \"https://www.pelago.co/en-IN/\"",
+      "uid" : "fcf10383a24991a0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387052950,
+        "stop" : 1665387056108,
+        "duration" : 3158
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "c3e126654bd32c98",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387058587,
+        "stop" : 1665387058587,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "c7672f38103b7716",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665386107665,
+        "stop" : 1665386107666,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "dce22954833f08b0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387132752,
+        "stop" : 1665387132752,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "cfc2282c22b61988",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665386224128,
+        "stop" : 1665386224129,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "15e32a998e613cb1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387260742,
+        "stop" : 1665387260742,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then user logout",
+      "uid" : "7e54163fd6e2af70",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386224193,
+        "stop" : 1665386224194,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Given user is on the pelago home page \"https://www.pelago.co/en-IN/\"",
+      "uid" : "fc6bdb481ca52b7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665388501316,
+        "stop" : 1665388504772,
+        "duration" : 3456
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Given user is on the pelago home page",
+      "uid" : "7931fdd7d3b01a7e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386224192,
+        "stop" : 1665386224193,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "4144490689a49123",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665388091758,
+        "stop" : 1665388091759,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then user should login successfully",
+      "uid" : "14fef3027ccabdb8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386413764,
+        "stop" : 1665386413764,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Given user is on the pelago home page",
+      "uid" : "c7f42d7acb9baa81",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386224212,
+        "stop" : 1665386224213,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "c3391e28aad6d1a2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387052949,
+        "stop" : 1665387052950,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then user logout",
+      "uid" : "2b9ee8841c167f10",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665387030964,
+        "stop" : 1665387030964,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "fd0c08d8241305db",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665388507807,
+        "stop" : 1665388507807,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "3271cf424a54f351",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665386107693,
+        "stop" : 1665386107694,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Given user is on the pelago home page \"https://www.pelago.co/en-IN/\"",
+      "uid" : "ccff1b4e94c805cf",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665388086858,
+        "stop" : 1665388090177,
+        "duration" : 3319
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "When I login with foobar and barfoo",
+      "uid" : "54e46c5fd559e1bf",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665385740145,
+        "stop" : 1665385741055,
+        "duration" : 910
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "When user search for an activity \"universal studios singapore\"",
+      "uid" : "b5ca7dce30c4a2f4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665388090177,
+        "stop" : 1665388091758,
+        "duration" : 1581
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then user logout",
+      "uid" : "447fb406e2012813",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386403730,
+        "stop" : 1665386403731,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "389782174187d23",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387058572,
+        "stop" : 1665387058573,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "e13fcdd97f0af818",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387718559,
+        "stop" : 1665387718560,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "530324a6c0c2a11b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665386107696,
+        "stop" : 1665386107697,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "2abde9a72af108a9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665386224212,
+        "stop" : 1665386224212,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "When user search for an activity \"universal studios singapore\"",
+      "uid" : "1a2e3ce130cc1e24",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1665387132406,
+        "stop" : 1665387132752,
+        "duration" : 346
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Given user is on the pelago home page \"https://www.pelago.co/en-IN/\"",
+      "uid" : "5813a1949fe6100f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387058587,
+        "stop" : 1665387060228,
+        "duration" : 1641
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then user logout",
+      "uid" : "b4cfa519197781e4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387062957,
+        "stop" : 1665387063068,
+        "duration" : 111
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "When user search for an activity \"universal studios singapore\"",
+      "uid" : "d7ce3698a61a8fe4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386107675,
+        "stop" : 1665386107676,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "125ff99675e49039",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665385741111,
+        "stop" : 1665385741111,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then user should login successfully",
+      "uid" : "18f80f26e104e0eb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386319127,
+        "stop" : 1665386319127,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "89fc917511e69955",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665388121041,
+        "stop" : 1665388121043,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "When user search for an activity \"universal studios singapore\"",
+      "uid" : "94332e079d328097",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387716699,
+        "stop" : 1665387718559,
+        "duration" : 1860
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "When user login with \"balamkondababu@gmail.com\" and \"bobby@123\"",
+      "uid" : "172b9cf8ec9b72b3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1665386393659,
+        "stop" : 1665386403730,
+        "duration" : 10071
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Given user is on the pelago home page \"https://www.pelago.co/en-IN/\"",
+      "uid" : "4fcbb56756d3385d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387127779,
+        "stop" : 1665387132406,
+        "duration" : 4627
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "When user search for an activity \"universal studios singapore\"",
+      "uid" : "743b517407551928",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665391816029,
+        "stop" : 1665391818059,
+        "duration" : 2030
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "c55b423351660419",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387063068,
+        "stop" : 1665387063068,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "8b11a8ecc590cb5e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665386107713,
+        "stop" : 1665386107714,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Then user logout",
+      "uid" : "7a14ed7e58245a82",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386107716,
+        "stop" : 1665386107716,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "e6c170458ab4d873",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665386393658,
+        "stop" : 1665386393659,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "",
+      "uid" : "3365015bd0d784a1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665387330844,
+        "stop" : 1665387330845,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    }, {
+      "name" : "Given user is on the pelago home page",
+      "uid" : "fb6407e7917893bb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1665386107694,
+        "stop" : 1665386107695,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.103" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  } ]
+}
